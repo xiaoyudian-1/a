@@ -1,0 +1,48 @@
+h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+hr {
+    background-color: blueviolet;
+}
+
+p {
+    background-color: bisque;
+}
+
+a {
+    margin-left: 50px;
+  
+}
+
+a:link {color:#54b540;}
+a:visited {color:#00FF00;}
+a:hover {color:#FF00FF;}
+a:active {color:#0000FF;}
+
+
+
+/* body {箭头圆环
+    background-image: url('https://img-qn.51miz.com/preview/element/00/01/25/07/E-1250741-D98AAB3D.jpg!/quality/90/unsharp/true/compress/true/format/jpg');
+} */
+
+body {
+    background-image: url('https://img-qn.51miz.com/preview/video/00/00/15/25/V-152528-6E188523.gif');
+    background-repeat: no-repeat;
+    background-image: url('http://static.runoob.com/images/mix/img_tree.png');
+    background-position: bottom right;
+    background-attachment:fixed;
+
+}
+
+ul {
+    list-style-type:circle;
+    margin: 0;
+    padding: 0;
+  }
+
+table {
+    margin: 30px;
+    padding: 0px;
+}
